@@ -3,7 +3,9 @@ n = randint(1, 10)
 while True:
     escola = int(input('Escola um número ente 0 a 10: '))
     if n == escola:
-        print('Sua resposta foi correta')
+        print(f'Parabéns!!!'
+              f'Sua resposta foi correta...'
+              f' eu tinha escolhido {n}')
         break
     resp = input('Quer tentar novamente? ').strip().upper()[0]
     if resp == 'S':
@@ -12,4 +14,5 @@ while True:
         if n < escola:
             print(f'Menor')
     if resp == 'N':
+        print('Programa Finalizado!!!')
         break
