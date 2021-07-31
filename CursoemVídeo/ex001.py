@@ -7,12 +7,7 @@ while True:
               f'Sua resposta foi correta...'
               f' eu tinha escolhido {n}')
         break
-    resp = input('Quer tentar novamente? ').strip().upper()[0]
-    if resp == 'S':
-        if n > escola:
-            print(f'Maior')
-        if n < escola:
-            print(f'Menor')
-    if resp == 'N':
-        print('Programa Finalizado!!!')
-        break
+    if n > escola:
+        print(f'Maior')
+    if n < escola:
+        print(f'Menor')
