@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c9f82b3-e8d8-454f-85f0-b7a269580485" name="Default Changelist" comment="ga">
-      <change afterPath="$PROJECT_DIR$/CursoemVídeo/ex077Contando vogais em Tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aplicações/Analise de Lista no Excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2021_18_35_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2021_18_35__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +49,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.ex077Contando vogais em Tupla">
-    <configuration name="ex073Tuplas com Times de Futebol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Analise de Lista no Excel + Enviar msg">
+    <configuration name="Analise de Lista no Excel + Enviar msg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoemVídeo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aplicações" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoemVídeo/ex073Tuplas com Times de Futebol.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Renat\PycharmProjects\PycharmProjects-Python\Aplicações\Analise de Lista no Excel + Enviar msg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Analise de Lista no Excel + Enviar msg" />
         <item itemvalue="Python.ex077Contando vogais em Tupla" />
         <item itemvalue="Python.ex076Lista de Preços com Tupla" />
         <item itemvalue="Python.ex075Análise de dados em uma Tupla" />
         <item itemvalue="Python.ex074Maior e menor valores em Tupla" />
-        <item itemvalue="Python.ex073Tuplas com Times de Futebol" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628371020609</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ga">
+      <created>1628376176708</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1628376176708</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
