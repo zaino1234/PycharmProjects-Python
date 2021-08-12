@@ -35,7 +35,11 @@ for c, v in enumerate(valores):
 print('Cheguei o final da lista')
 print('-'*100)
 
-
+a = [2, 3, 4, 7]
+b = a[:]#Cria uma copia dos VALORES DE A
+b[2] = 8
+print(f'Lista A: {a}')
+print(f'Lista B: {b}')
 
 
 
