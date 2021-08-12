@@ -17,7 +17,7 @@ lista_teste.remove('C')#Remove o elemento indicado pelo valor
 print(lista_teste)
 
 print(f'{"Criando lista atraves de range()/ e análise/configurando listas":=^100}')
-valores = list(range(4, 11))#Cria uma lista de acorda com range escolhido
+valores = list(range(4, 7))#Cria uma lista de acorda com range escolhido
 print(valores)
 valores_1 = [8, 5, 9, 12, 2, 1, 0]
 valores_1.sort()#Coloca os elementos em ordem crescente
@@ -25,6 +25,18 @@ print(valores_1)
 valores_1.sort(reverse=True)#Coloca os elementos em ordem decrescente
 print(valores_1)
 print(len(valores_1))#Determina a quantidade elementos
+print('-'*100)
+
+for cont in range(0, 5):
+    valores.append(int(input('Digite um valor: ')))
+
+for c, v in enumerate(valores):
+    print(f'Na posição {c} encontrei o valor {v}')
+print('Cheguei o final da lista')
+print('-'*100)
+
+
+
 
 
 
